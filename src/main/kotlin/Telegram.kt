@@ -4,7 +4,7 @@ import java.io.File
 class Telegram(private val token: String) {
 
     /**
-     * sendMessage — Send file (except photo or video)
+     * sendMessage — Send a text message
      * https://core.telegram.org/bots/api#sendmessage
      *
      * chatId: @username or @channelname

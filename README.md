@@ -1,2 +1,2 @@
-# SendTelegram
-Simple Telegram API for sending messages
+# Send Telegram
+Simple Telegram API (Kotlin) for sending messages.
